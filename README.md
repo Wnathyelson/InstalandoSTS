@@ -1,4 +1,4 @@
-# Instalando STS - Spring Tool Suite no LINUX
+Instalando STS - Spring Tool Suite no LINUX
 
 Baixe: A versão baseada na IDE Eclipse para LINUX.
 
