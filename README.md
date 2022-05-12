@@ -7,10 +7,15 @@ Link:
 https://spring.io/tools
 
 $ cd Downloads
+
 $ sudo mv spring-tool-suite-4-4.14.1.RELEASE-e4.23.0-linux.gtk.x86_64.tar.gz /opt
+
 $ cd /opt/
+
 $ sudo tar zxvf spring-tool-suite-4-4.14.1.RELEASE-e4.23.0-linux.gtk.x86_64.tar.gz
+
 $ cd sts-4.14.1.RELEASE/
+
 $ sudo ./SpringToolSuite4
 
 $ sudo vi /usr/share/applications/stsLauncher.desktop
